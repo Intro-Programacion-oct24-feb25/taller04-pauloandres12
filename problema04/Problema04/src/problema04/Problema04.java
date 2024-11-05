@@ -37,7 +37,7 @@ public class Problema04 {
         System.out.printf("Reporte:\nNombres del cliente: %s\n"
         +"Valores iniciales:\nCPU: $ %.2f\nTeclado: $ %.2f\n"
                 + "Raton: $ %.2f\nPantalla: $ %.2f\n\n"
-                + "Valor a cancelar: %.2f",
+                + "Valor a cancelar: %.2f\n",
                 nombre,
                 cpu,
                 teclado,
