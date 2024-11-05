@@ -35,10 +35,10 @@ public class Problema05 {
         double dropboxDesc = dropbox - (dropbox * 0.45);
         double valorTotal = netflixDesc+youtubeDesc+dropboxDesc+spotify;
         
-        System.out.println("el valor de Netflix y Youtube tiene un descuento "
+        System.out.println("El valor de Netflix y Youtube tiene un descuento "
                 + "del 25%"+"\n"+
                 "El valor de Dropbox tiene un descuento del 45%"+"\n"+
-                "El valor de spotify no varia"+"\n"+
+                "El valor de Spotify no varia"+"\n"+
                 "El valor total a pagar es:"+" "+valorTotal+"\n");
         
     
